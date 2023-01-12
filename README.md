@@ -1,7 +1,7 @@
 # Barrier
 
 ### Prerequisites to build on Ubuntu 22.04
-- `sudo apt install xorg-dev libcurl4-openssl-dev libavahi-compat-libdnssd-dev libssl-dev libx11-dev libqt4-dev qtbase5-dev libavahi-compat-libdnssd1`
+- `sudo apt install xorg-dev libcurl4-openssl-dev libavahi-compat-libdnssd-dev libssl-dev libx11-dev qtbase5-dev libavahi-compat-libdnssd1`
 - run `./clean_build.sh`
 - Install with `cmake --install build` (should be done with sudo)
 
